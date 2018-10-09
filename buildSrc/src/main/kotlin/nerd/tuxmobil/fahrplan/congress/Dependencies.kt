@@ -16,6 +16,7 @@ object Plugins {
     private object Versions {
         const val android = "4.0.1"
         const val androidJunitJacoco = "0.16.0"
+        const val proguard = "6.0.3"
         const val sonarQube = "3.0"
         const val unMock = "0.7.6"
         const val versions = "0.33.0"
@@ -24,6 +25,7 @@ object Plugins {
     const val android = "com.android.tools.build:gradle:${Versions.android}"
     const val androidJunitJacoco = "com.vanniktech:gradle-android-junit-jacoco-plugin:${Versions.androidJunitJacoco}"
     const val kotlin = "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersion"
+    const val proguard = "net.sf.proguard:proguard-gradle:${Versions.proguard}"
     const val sonarQube = "org.sonarsource.scanner.gradle:sonarqube-gradle-plugin:${Versions.sonarQube}"
     const val unMock = "de.mobilej.unmock:UnMockPlugin:${Versions.unMock}"
     const val versions = "com.github.ben-manes:gradle-versions-plugin:${Versions.versions}"
