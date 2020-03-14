@@ -6,7 +6,7 @@ object Android {
     const val buildToolsVersion = "29.0.3"
     const val compileSdkVersion = 29
     const val minSdkVersion = 14
-    const val targetSdkVersion = 29
+    const val targetSdkVersion = 27
 }
 
 private const val kotlinVersion = "1.3.72"
