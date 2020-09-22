@@ -9,7 +9,7 @@ object Android {
     const val targetSdkVersion = 29
 }
 
-private const val kotlinVersion = "1.3.72"
+private const val kotlinVersion = "1.4.10"
 
 object Plugins {
 
