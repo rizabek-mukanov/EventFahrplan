@@ -10,8 +10,8 @@ apply plugin: "de.mobilej.unmock"
 apply from: "../gradle/sonarqube.gradle"
 
 android {
-    compileSdkVersion Android.compileSdkVersion
-    buildToolsVersion Android.buildToolsVersion
+    compileSdkVersion 30
+    buildToolsVersion '30.0.2'
 
     defaultConfig {
         versionCode 75

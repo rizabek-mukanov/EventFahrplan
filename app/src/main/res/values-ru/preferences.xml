@@ -23,4 +23,5 @@
     <!-- Insistent session alarms -->
     <string name="preference_title_insistent_alarms_enabled">Настойчивое напоминание</string>
 
+
 </resources>

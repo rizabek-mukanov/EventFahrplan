@@ -49,9 +49,7 @@
     <string name="placeholder_session_speakers">
         *m, Jeff Mann, frank, Diani Barreto
     </string>
-    <string name="placeholder_session_links">
-        OCTO der Künstlergruppe Telekommunisten\nTelekommunisten workshop
-    </string>
+    <string name="placeholder_session_links">OCTO der Künstlergruppe Telekommunisten Telekommunisten workshop</string>
     <string name="placeholder_session_online">
         https://events.ccc.de/congress/2013/Fahrplan/events/5610.html
     </string>

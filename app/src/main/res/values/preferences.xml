@@ -92,13 +92,7 @@
     <string name="preference_hint_engelsystem_json_export_url" translatable="false">
         https://engelsystem.de/36c3/shifts-json-export?key=YOUR_KEY
     </string>
-    <string name="preference_summary_engelsystem_json_export_url">
-        <![CDATA[In order to see your shifts please enter your <u>personal</u> URL here.<br/><br/>
-        1. Login to your Engelsystem account.<br/>
-        2. Copy the URL behind the <u>JSON Export</u> button at your profile page.<br/>
-        3. Paste the URL here.<br/><br/>
-        Shifts before and after the main conference days are <u>not</u> displayed.]]>
-    </string>
+    <string name="preference_summary_engelsystem_json_export_url">"         <![CDATA[In order to see your shifts please enter your <u>personal</u> URL here.<br/><br/>         1. Login to your Engelsystem account.<br/>         2. Copy the URL behind the <u>JSON Export</u> button at your profile page.<br/>         3. Paste the URL here.<br/><br/>         Shifts before and after the main conference days are <u>not</u> displayed.]]>     "</string>
     <string name="preference_title_engelsystem_json_export_url" translatable="false">JSON Export URL</string>
     <string name="preference_url_type_friendly_name_engelsystem_json_export">
         Engelsystem

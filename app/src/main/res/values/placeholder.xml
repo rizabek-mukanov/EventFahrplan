@@ -28,29 +28,11 @@
         it related to Android as we wrote about in the "Android Hackers Handbook"
         which we co-authored and will be released in October 2013.
     </string>
-    <string name="placeholder_session_description">
-        Lastly, we will also discuss some of our most recent related hardware
-        research (to facilitate the above) which will include bus protocol
-        eavesdropping/reverse engineering, demystifying hardware debugging, and
-        surreptitiously obtaining embedded software (firmware) using hardware
-        techniques. We will demonstrate and show the supportive tools used and
-        techniques developed to perform this work and deploy them against Apple
-        MFI iAP devices, and multimedia devices using OEM implemented USB stacks.
-        (Which will briefly include our experiences around starting http://int3.cc
-        where we sell a fully assembled modified version of a hardware USB fuzzer.)
-        \n
-        \nAlong the way we will inevitably share some of the lessons we also learned
-        while completely designing the hardware (from scratch), writing the firmware,
-        and mobile apps for an embedded security device called Osprey that we hold
-        the patent for and have been publicly about publicly as a hardware vulnerability
-        assessment swiss-army-knife for researchers.
-    </string>
-    <string name="placeholder_session_speakers">
+    <string name="placeholder_session_description">Lastly, we will also discuss some of our most recent related hardware research (to facilitate the above) which will include bus protocol eavesdropping/reverse engineering, demystifying hardware debugging, and surreptitiously obtaining embedded software (firmware) using hardware techniques. We will demonstrate and show the supportive tools used and techniques developed to perform this work and deploy them against Apple MFI iAP devices, and multimedia devices using OEM implemented USB stacks. (Which will briefly include our experiences around starting http://int3.cc where we sell a fully assembled modified version of a hardware USB fuzzer.)    Along the way we will inevitably share some of the lessons we also learned while completely designing the hardware (from scratch), writing the firmware, and mobile apps for an embedded security device called Osprey that we hold the patent for and have been publicly about publicly as a hardware vulnerability assessment swiss-army-knife for researchers.</string>
+    <string name="placeholder_session_speakers" translatable="false">
         Stephen A. Ridley, Ernest Ridley, Conan Ridley, Bridget Ridley, Frank Ridley
     </string>
-    <string name="placeholder_session_links">
-        Don\'t Stuff Beans Up Your Nose\nINT3.CC\nThe Osprey (on INT3)
-    </string>
+    <string name="placeholder_session_links">Don\'t Stuff Beans Up Your Nose INT3.CC The Osprey (on INT3)</string>
     <string name="placeholder_session_online">
         https://events.ccc.de/congress/2013/Fahrplan/events/5193.html
     </string>
@@ -92,7 +74,7 @@
     <string name="placeholder_session_location">
         REALLY LARGE ROOM
     </string>
-    <string name="placeholder_session_id">
+    <string name="placeholder_session_id" translatable="false">
         ID: 5193
     </string>
 

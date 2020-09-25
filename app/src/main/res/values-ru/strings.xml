@@ -200,5 +200,35 @@
     <string name="session_list_item_no_video_content_description">Без видеозаписи</string>
     <string name="session_list_item_video_content_description">С видеозаписью</string>
     <string name="session_list_item_without_video_content_description">Без видеозаписи</string>
+    <string name="placeholder_day_separator_title">День 2</string>
+    <string name="placeholder_session_location">По настоящему большая комнату</string>
+    <string name="session_list_item_language_portuguese_content_description">Португальский</string>
+    <string name="engelsystem_shifts_parsing_error_forbidden">Недействительный API ключ для EngelSystem</string>
+    <string name="engelsystem_shifts_parsing_error_not_found">Неправильный URL для смены Engelsystem</string>
+    <string name="engelsystem_shifts_parsing_error_generic">Неизвестная ошибка во время разбора смен Engelsystem</string>
+    <string name="menu_item_title_share_session_text">как текст</string>
+    <string name="menu_item_title_share_session_json">как JSON (для Chaosflix)</string>
+    <string name="share_as_text">поделиться как текст</string>
+    <string name="share_as_json">поделиться как JSON (для Chaosflix)</string>
+    <string name="placeholder_session_track">Охрана и безопасность</string>
+    <string name="placeholder_alarm_time">12.28.13 17:10</string>
+    <string name="placeholder_session_date">12.28.13 17:15</string>
+    <string name="placeholder_alarm_minutes">5</string>
+    <string name="placeholder_session_title">"Аппаратная атака, Продвинутый эксплоит ARM, и Взлом Android "</string>
+    <string name="preference_url_type_friendly_name_engelsystem_json_export">Engelsystem</string>
+    <string name="placeholder_session_language">ru</string>
+    <string name="placeholder_session_links">Не Наполняйте Нос Фасолями</string>
+    <string name="placeholder_session_subtitle">Обсуждение недавних исследовании, демонстрация способов в прямом эфире</string>
+    <string name="placeholder_session_duration">240 минут</string>
+    <string name="placeholder_session_start_time">17:15</string>
+    <string name="placeholder_schedule_time">09:15</string>
+    <string name="preference_summary_engelsystem_json_export_url">"         <![CDATA[Чтобы увидеть ваши смена, пожалуйста введите здесь свой <u>персональный</u> URL.<br/><br/>         1. Войдите в свой аккаунт Engelsystem.<br/>         2. Скопируйте URL после кнопки <u>JSON Export</u> на странице вашего аккаунта.<br/>         3. Вставьте URL сюда.<br/><br/>     Смены до и после дней главных конференции <u>не</u> показываются.]]>               "</string>
+    <string name="validation_error_url_with_incomplete_query">"         <xliff:g example="Engelsystem" id="urlType">%s</xliff:g> URL с неполным запросом.     "</string>
+    <string name="validation_error_url_without_api_key">"         <xliff:g example="Engelsystem" id="urlType">%s</xliff:g> URL без ключа API.     "</string>
+    <string name="validation_error_url_without_query">"         <xliff:g example="Engelsystem" id="urlType">%s</xliff:g> URL без запроса.     "</string>
+    <string name="placeholder_session_abstract">Во время этого разговора (который частично был на Infiltrate 2013 and NoSuchCon 2013) мы обсудим наши недавние исследования которые войдут в курс Практического Эксплуатирования ARM (проданного на Blackhat в этом и прошлом году) на Linux и Android (для встроенных приложений и мобильных устройств). Мы также покажем эти способы и обсудим как мы смогли найти их используя несколько платформ для разработки ARM оборудования которые мы сами создали. Там где уместно, мы также обсудим Эксплуатирование ARM как это связано с Android как мы писами об этом в Android Hackers Handbookwhich, со-авторами чего мы являемся и будет выпущен в Октябре 2013 года.</string>
+    <string name="validation_error_invalid_url">"         Неверный <xliff:g example="Engelsystem" id="urlType">%s</xliff:g> URL.     "</string>
+    <string name="placeholder_session_day">Сегодня</string>
+    <string name="placeholder_session_room">Королевский окружной суд Баварии</string>
 
 </resources>
